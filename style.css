@@ -30,6 +30,14 @@ textarea{
   border: 1px solid black;
 }
 
+.MyInput{
+  background-color: rgba(0, 0, 0, 0);
+  display:table-cell;
+  width:100%;
+  border: none;
+  outline: none;
+}
+
 h4{
   font-size: 16px;
   margin-top: 29px;
